@@ -1,0 +1,1317 @@
+{
+    "places": [
+        {
+            "id": "00000001",
+            "name": "Petronas Twin Towers",
+            "description": "The world’s tallest twin towers soaring 88-storey and 451.9 metres high is located right here in the heart of Kuala Lumpur. Truly Malaysia’s crown jewel, the Petronas Twin Towers is majestic by day and dazzling by night. Inspired by Tun Mahathir Mohamad's vision for Malaysia to be a global player and designed by master architect Cesar Pelli, the international icon encapsulates the nation's ambitions and aspirations.\n\nBegin your tour with interactive displays here that showcase its journey, from idea to completion. The Skybridge which connects the two towers is the world's highest bridge. Level 86, accessible by the public offers breathtaking views of Kuala Lumpur. Wrap up your visit by loading up on exquisite souvenirs at the gift shop.",
+            "image": [
+        		"bg__img_twintower"
+      		],
+      		"tags": [
+      			"OP010", 
+      			"OP001"
+      		],
+            "address": [
+                ""
+            ],
+            "contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 3.15778,
+        		"longitude": 101.71244
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				"All Day, 1000 - 2200"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000002",
+            "name": "",
+            "description": "",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			"",
+      			""
+      		],
+            "address": [
+                ""
+            ],
+            "contact": {
+       			"tel": "+605-7679700",
+        		"fax": "+605-7679703",
+        		"email": "info@heritage.gov.my"
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000003",
+            "name": "Cheong Fatt Tze Mansion",
+            "description": "A grand mansion conceived and constructed by a 'Grand Man'; an eminent edifice which history calls Home; a peerless representation of the Paradigm Chinese Courtyard House – the Cheong Fatt Tze 'Blue' Mansion has been perfectly poised for over a century on firm foundations of architectural, cultural and historic superlatives.\n\nEssentially an 'heirloom with rooms', today, the mansion charms its visitors with exclusive heritage homestays, guided tours and tailored functions on its premises. Reputedly the favourite home of the 'Last Mandarin and First Capitalist of China', the mansion is undoubtedly the favourite home of George Town, Penang.\n\nBuilt in the 1880s, this famous indigo-blue Chinese Courtyard House was the residence of Cheong Fatt Tze, a prominent Chinese figure in the newly established Penang Straits Settlement during the 19th century. The mansion was built by master craftsmen brought in especially from China, who used their skills to fashion the mansion's 38 rooms, 5 granite-paved courtyards, 7 staircases and 220 windows.\n\nThe Cheong Fatt Tze mansion possesses splendid Chinese timber carvings, Gothic louvre windows, russet brick walls and porcelain cut & paste decorative shard works, art nouveau stained glass panels, Stoke-on-Trent floor tiles and Scottish cast iron work. Its layout is based on feng-shui principles, and filled with rare a collection of sculptures, carvings, tapestries and other antiques.\n\nIn 2000, the Cheong Fatt Tze mansion received the inaugural UNESCO Asia-Pacific Heritage Conservation Award, selected as the 'Most Excellent Project' in the Asia Pacific Rim following its RM7.6 million restoration works.",
+            "image": [
+        		"bg__img_mansion"
+      		],
+      		"tags": [
+      			"OP002",
+      			"OP007"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 5.36365,
+        		"longitude": 100.31080
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000004",
+            "name": "Tengku Tengah Zaharah Mosque (Floating Mosque)",
+            "description": "Tengku Tengah Zaharah Mosque (Floating Mosque) is built on a platform, located on the estuary of the Terengganu River.\n\nThe glistening white mosque combines modern and Moorish architecture, symbolizing a new modernisation in the state and creating it an Islamic icon for the country.\n\nThe design of the mosque reflects a subtle Islamic influence combined with local features, incorporating the use of marble, ceramics, mosaic works and bomanite paving. The construction of the mosque inspired by the late Sultan of Terengganu, Al-Marhum Sultan Mahmud Al-Muktafi Billah Shah ibni al-Marhum Sultan Ismail Nasiruddin Shah.\n\nNamed after his mother, Tuanku Intan Zaharah binti Almarhum Tengku Seri Setia Raja, the mosque is surrounded by a lake and look much like a place set in the tale of 1,001 Arabian Nights.",
+            "image": [
+        		"bg__img_floatingmosque"
+      		],
+      		"tags": [
+      			"OP002",
+      			"OP007"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 5.31651,
+        		"longitude": 103.05874
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000005",
+            "name": "Sarawak Cultural Village",
+            "description": "Known as the 'Living Museum', the Sarawak Cultural Village was set up to preserve and showcase Sarawak's cultural heritage. Located at Pantai Damai, Santubong, just 32 km from the state capital, Kuching, it is the perfect place to get introduced to local culture and lifestyle.\n\nSprawled across 17 acres, there are about 150 people living in the village, demonstrating traditional daily activities from Sarawak's diverse tribes like the processing of sago to the making of handicrafts.\n\nReplicas of buildings that represent every major ethnic group in Sarawak from the longhouses of the Iban, Bidayuh and Orang Ulu to a Melanau tall-house and a Chinese farm houseare on display here.\n\nThe village also has a theatre for multicultural dance performances,  a restaurant and a handicraft shop. One can even get married at the Sarawak Cultural Village garbed in traditional Iban, Malay, Bidayuh or Orang Ulu costumes.\n\nThe Iban longhouse with its long communal hall is often used for leisurely activities like wood carving and basket weaving.\n\nGuests are invited to attend nightly ceremonies and partake a potent rice wine, 'tuak'. Comfortable guesthouses are available for visitors.",
+            "image": [
+        		"bg__img_sarawakvillage"
+      		],
+      		"tags": [
+      			"OP003",
+      			"OP002"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 1.75067,
+        		"longitude": 110.31647
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+      		"id": "00000006",
+      		"name": "Langkawi Island",
+      		"description": "Langkawi is known as a legendary island. It is a cluster of 99 islands located off the coast of Kedah and offers the best of many worlds: beautiful beaches, world-class infrastructure, mangroves rich in flora and fauna, ultra-cheap duty-free shopping and fascinating legends.\\n\\nLangkawi has a lingering legend woven into its history. Ask anyone on the island about the tragic story of a beautiful young maiden named Mahsuri, and you'll hear a tale of love, jealousy and a curse that was placed upon the island by her for seven generations.\\n\\nToday, the seventh generation of Langkawi's inhabitants has long come and gone, but people here still believe that the prosperity and blessings the islands enjoy today and the passing of the curse is no mere coincidence. The mysticism of this legend can be felt in many parts of this island, especially at Makam Mahsuri (Mahsuri's Mausoleum), where Mahsuri is said to be buried.\\n\\nMany of the islanders here are farmers, fishermen and entrepreneurs. Come experience the beautiful countryside and peaceful landscape of paddy fields, best accomplished a leisurely drive around the island. Some of Langkawi's most rustic and memorable views are located along the road that encircles the island.\\n\\nYou'll pass small villages with wooden houses framed by palm trees, and children pedalling their old bicycles. Aside from experiencing the local lifestyle, there is no shortage of things to do in Langkawi. Head up the thrilling new cable car to the summit of Mount Mat Cincang - Langkawi's second highest mountain for an unrivalled view of the entire main island.\\n\\nOther popular destinations include the Field of Burnt Rice, Hot Springs, Telaga Tujuh (The Seven Wells) and the Beach of Black Sand. Boat tours are organised to Tasik Dayang Bunting (Lake of the Pregnant Maiden), Gua Cerita (Cave of Stories) and Gua Langsir (Curtain Cave).\\n\\nFor a more intimate time with nature, go trekking through the pristine rainforest that covers most of Langkawi, hop on a boat tour of the mangroves. Go for a dive, or play a round of golf at one of the many 5-star resorts. Langkawi's Underwater World is also a must-visit.",
+      		"image": [
+        		""
+      		],
+      		"tags": [
+      			"OP003",
+      			"OP005"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 6.32330,
+        		"longitude": 99.85472
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+    	},
+        {
+            "id": "00000007",
+            "name": "A' Famosa",
+            "description": "A’ Famosa, or 'The Famous' in Portuguese, is among the oldest surviving European architectural remains in Asia. Once part of a mighty fortress, this tiny gate (called the Porta de Santiago) is all that is left of the fortress. In 1511 a Portuguese fleet arrived under the command of Alfonso de Albequerque. His forces attacked and successfully defeated the armies of the native Sultanate and quickly built a fortress around a natural hill near the sea. Albequerque believed that Melaka would become an important port linking Portugal to the spice trade from China. At his time other Portuguese were establishing outposts in such places as Macau, China and Goa, India in order to create a string of friendly ports for ships heading to China and returning home to Portugal. The Portuguese colonised Melaka from 1511 to 1641. As Melaka was the centre of struggles between super powers of the time, it suffered constant threat of attack. Hence, the A'Famosa fort was critical for Portugal to maintain its colonial foothold in the Far East.\n\nWithin the fort walls were housing and food stores, a castle, a meeting room for the Portuguese Council and five churches. A seven-month attack by the Dutch just about destroyed the entire fortress, leaving only the entrance façade and the structure of a church at the top of the hill.\n\nGo for a stroll up St. Paul's Hill on a cool late afternoon and wander among the majestic trees and historical remnants. Here, you can almost imagine the glories and miseries of the besieged lives the Portuguese would have led right here all those years ago.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+            "address": [
+                
+            ],
+            "contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000008",
+            "name": "Mount Mulu National Park",
+            "description": "Mount Mulu National Park is a UNESCO World Heritage site. Home to one of the richest biodiversity treasures in the world with endless rare wildlife, plants and flowers, it is also home to one of the longest networks of caves in the world.\n\nSarawak Chamber, the world’s largest underground chamber is approximately the size of 40 Boeing 747 aeroplanes. The Deer Cave, the world’s biggest cave passage has a capacity of five St. Paul’s Cathedral (London). The Clear Water Cave is the longest cave in Southeast Asia. The massive caves here are also home to millions of bats and swiftlets that swarm out into the jungle every evening.\n\nMount Mulu National Park also has some of the fine examples of tropical limestone weathering in the world, including enormous razor-sharp pinnacles and deep-cut canyons called The Pinnacles.\n\nNamed after the 2,377m Mount Mulu (Gunung Mulu), the park is famed for its limestone karst formations both above ground and underground. The massive cave systems, which contain the 12 million cubic meter Sarawak Chamber (the world's largest), are still in the process of being mapped. Clearwater Cave at 151 km (Feb 2007) is the 10th longest cave in the world.",
+            "image": [
+        		"bg__img_gunung_mulu"
+      		],
+      		"tags": [
+      			"OP003",
+      			"OP006"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 4.21048,
+        		"longitude": 101.97577
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000009",
+            "name": "Legoland Resort",
+            "description": "Legoland Malaysia is Malaysia's first international theme park that has opened in Nusajaya, Johor, Malaysia on September 15, 2012 with over 40 interactive rides, shows and attractions. It is the first Legoland theme park in Asia upon its establishment. The official opening of Legoland Malaysia was made by Sultan Ibrahim Ismail, Sultan of Johor on September 22, 2012.[2] It is the centrepiece of a 5,500,000 sq ft (510,000 m2) integrated complex in the Nusa Cemerlang industrial park, within the Iskandar Malaysia economic region, consisting of a lifestyle retail centre, offices, hotels, service apartments and residential units. This is also the third Legoland observation tower in the world after Denmark and Germany.",
+            "image": [
+        		"bg__img_legoland"
+      		],
+      		"tags": [
+      			"OP010",
+      			"OP008"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 1.42614,
+        		"longitude": 103.62937
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000010",
+            "name": "Batu Caves",
+            "description": "Batu Caves (Tamil: பத்து மலை) is a limestone hill that has a series of caves and cave temples in the Gombak district, 13 kilometres (8 mi) north of Kuala Lumpur, Malaysia. It takes its name from the Sungai Batu or Batu River, which flows past the hill. Batu Caves is also the name of the nearby village.\n\nThe cave is one of the most popular Hindu shrines outside India, dedicated to Lord Murugan. It is the focal point of Hindu festival of Thaipusam in Malaysia.",
+            "image": [
+        		"bg__img_batu_caves"
+      		],
+      		"tags": [
+      			"OP003",
+      			"OP002"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 3.23753,
+        		"longitude": 101.68387
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000011",
+            "name": "Grand Old Lady",
+            "description": "The Grand Old Lady is the first oil well in Malaysia and represents the beginning of the petroleum history of Miri which is almost a century old, since 1910. As one of Sarawak's most important historical monuments, this oil well though no longer in production, has been declared a protected historical site by the Sarawak Government. This landmark stands 30 metres high, located on top of Canada Hill and overlooking Miri. The growth of the oil industry has helped transform Miri from a small fishing village at the turn of the 20th century into a modern and prosperous town today.\n\nThe first derrick constructed was affectionately called 'The Grand Old Lady' and produced oil for 62 years. Next to the Grand Old Lady, the Petroleum Museum exhibits photographs and information relating to the petroleum industry.\n\nThis museum cum information centre is a joint-venture between Shell Malaysia and Petronas. At the rear of the museum, the parking lot also serves as a vantage point overlooking Miri town. The view from Bukit Telaga Minyak offers a panorama spinning across to the Miri-Brunei border and the offshore oilrigs and the refineries in nearby Lutong town.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000012",
+            "name": "Datai Bay, Langkawi",
+            "description": "Datai Bay in Langkawi has a rich coastal landscape that formed by strong wave activities. Located at the northwest corner of Langkawi island, the waves have enabled the crafting of several features on the beach making them Datai Bay's trademarks. The area is an important geological site and is well preserved and protected.\n\nThe Datai Langkawi Resort, renowned for its golf club, Datai Bay, provides one of the best golfing experiences in the world. That’s not all. Shopaholics will certainly enjoy Langkawi’s regional shopping hub for duty-free goods at Kuah Town. The popular district has a diverse range of hotels.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000013",
+            "name": "Langkawi Mangrove Forest",
+            "description": "The mangrove forest of Langkawi is truly a sight to behold. Enjoy a boat ride along the Kilim river through the maze created by aerial roots and thick leaves of the mangrove trees. The network of streams and hidden coves is home to hundreds of endemic jungle species of wildlife.\n\nThis is the place to observe the bizarre walking fish, vividly coloured kingfishers, eagles, otters and even dolphins. The brahminy kites and huge sea eagles that nest in the crags overhead provide hours of fascination for naturalists.\n\nThe highlight of any tour to the mangroves is the feeding of the eagles. These huge birds circle overhead and swoop in for their 'lunch' - food fed by boatmen along the river.\n\nMangrove tours include jungle trekking, cave exploration, village visits, high tide swims and guided explorations of mangrove flora and fauna. It is best to decide on what itinerary best suits you before you book your tour.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000014",
+            "name": "Dayang Bunting Lake",
+            "description": "The story of this lake in Dayang Bunting Island began when Mat Teja, a man fell in love at first sight on a beautiful fairy princess, Mambang Sari at the lake. With the help of a wise old man, Mat Teja finally won the heart of Mambang Sari.\n\nMambang Sari later bore Mat Teja a son. However, their happy moments were short-lived when their baby died. Traumatised, Mambang Sari decided to lay her child to rest in the lake. At the same time, she gave a blessing for all childless and infertile women to conceivable after bathing in the lake.\n\nThis is how the island got her name. At certain angles, the island resembles a 6-to-7-month pregnant lady, lying on her back. Some people might take it as a coincidence or the act of nature, but it somehow creates an amazing linkage between the island and her name.\n\nDayang Bunting Lake is also known as the Lake of the Pregnant Maiden and many tourists and barren couples bathe there in the hopes of bearing children.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000015",
+            "name": "Kinabatangan River",
+            "description": "The Kinabatangan River (Sungai Kinabatangan) is located in Sabah, eastern Malaysia, on the island of Borneo. It is the second longest river in Malaysia, with a length of 560 kilometers from its headwaters in the mountains of southwest Sabah, to its outlet at the Sulu Sea, east of Sandakan.\n\nKinabatangan is known for its remarkable wildlife and fascinating habitats such as limestone caves at Gomantong hill, dryland dipterocarp forests, riverine forest, freshwater swamp forest, oxbow lakes and salty mangrove swamps near the coast.",
+            "image": [
+        		"bg__img_kinabatangan"
+      		],
+      		"tags": [
+      			"OP006",
+      			"OP004"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 5.44746,
+        		"longitude": 118.10752
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000016",
+            "name": "The Paddy Museum",
+            "description": "The Paddy Museum in Kedah is the first of its kind in Malaysia, and the fourth to be opened in the world after Japan, Germany and the Philippines.\n\nThe unique architecture of the Paddy Museum resembles bushels of harvested rice stalks. Paddy motifs are repeated throughout the building, on staircase banisters, the museum gates and the fence surrounding it.\n\nThe museum showcases the paddy cultivation process in Malaysia and displays all kinds of tools and equipment which have been used in the industry over the years. Through beautiful murals, the artwork of 60 artists from North Korea, the history of paddy cultivation in Malaysia is immortalised.\n\nThis museum honours the history, culture and significance of paddy farming in Kedah, especially hardworking and simple paddy farmers, whose blood, sweat and toil have contributed immensely to the the rice industry in the country.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000017",
+            "name": "Alor Setar Tower",
+            "description": "Alor Setar Tower is nestled in the heart of Alor Setar. Standing majestically at 165.5 metres, it is a prominent modern landmark that reflects the rapid development in the state of Kedah. It was built in 1994 and completed in 1996.\n\nThe tower functions as both a telecommunications tower as well as a tourist attraction. The tower's platform allows visitors to enjoy breathtaking views, that stretches from Gunung Jerai or Mount Jerai (formerly known as Kedah Peak) to the Straits of Malacca. From the tower, you will see vast expanses of paddy fields which lie just outside of Alor Setar - an amazing view especially during harvest time.  \n\nAt its tip is the Seri Angkasa Revolving Restaurant, specialising in a variety of delicious local and international cuisine. From here, one can enjoy a spectacular view of Alor Setar and nearby Butterworth. On clear days, one can see as far as the neighbouring country of Thailand!\n\nThe tower also serves as an observatory tower from which to look for the crescent moon marking the beginning of Muslim religion months. The observation deck stands at a height of 88 metres from the base of the structure.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000018",
+            "name": "Mahathir's Birthplace",
+            "description": "Mahathir's Birthplace, or 'Rumah Kelahiran Mahathir', provides an insight into the younger days of the fourth Prime Minister of Malaysia, from his school days to his success as a doctor.\n\nTun Dr. Mahathir bin Mohamad was born in Alor Setar on Dec 20, 1925 at No. 18 Lorong Kilang Ais, off Jalan Pegawai. A humble wooden home nipah palm root, the single room house was designated a historical building and restored by the National Archives in 1992.\n\nThe fourth prime minister is one of the longest-serving leaders in the world, having helmed the country for 22 years.\n\nAdmission is free for all visitors.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000019",
+            "name": "Bujang Valley",
+            "description": "The Bujang Valley or 'Lembah Bujang' is a sprawling historical complex situated near Merbok, Kedah. Once the site of the Srivijaya Empire, an ancient Malay kingdom dating back to the first few centuries till the 12th century, it is the richest archaeological area in Malaysia.\n\nOver the years, numerous artefacts have been uncovered in the Bujang Valley - celadons, porcelain, stoneware, clay, pottery, fragments of glass, beads and Persian ceramics - evidences that Bujang Valley was once a centre of international and entrepot trade in the region. \n\nMore than 50 ancient Hindu or Buddhist temples, called candi, have also been unearthed. The most well-preserved of these is located in Pengkalan Bayang Merbok, which is also where the Bujang Valley Archaeological Museum is located. This museum is the first archaeology museum built in Malaysia, under the Museums and Antiquities Department.\n\nThe latest findings are ancient writings of a civilisation that existed here as early as the first century. \n\nLembah Bujang was called 'Nusantara' and its strategic position was known to traders from China, India and the Middle East. They say that if you launch a boat from the Coramandel Coast of southern India and allow it to drift along with the natural currents, it would eventually wash ashore on this stretch of the Malaysian peninsula - close to Kedah Peak (Gunung Jerai) which served as a landmark and navigational aid to sailors for centuries.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000020",
+            "name": "Bujang Valley Archaeological Museum, Bukit Batu Pahat",
+            "description": "The Bujang Valley Archaeological Museum is the only museum in Malaysia to display archaeological artefacts dating back to existence of international trade and development of the Hindu Buddha religion in Southeast Asia in the 3rd-12th century. This museum is located at the top of Bukit Batu Pahat, Merbok, Kedah, about 23 km from Sungai Petani. It was built to facilitate research and archaeological excavation works as well as a display centre for proto-historical artefacts before the coming of Islam at Bujang Valley. \n\nThe museum was opened on 23 January, 1980 by Al-Sultan Almu’tasimu Muhibbuddin Tuanku Alhaj Abdul Halim Mu’adzam Shah ibni Almarhum Sultan Badlishah, Sultan Kedah Darul Aman. Archaeological artefacts displayed at the museum were obtained from excavations at sites around 400 km² at Bujang Valley. These artefacts are proof that the area was a trading hub for travellers from the East and West, especially Chinese, Indian and traders from the Malay Archipelago who traded in spices and exotic resources from the rainforests for markets in the Far East since the 5th century.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000021",
+            "name": "Candi Bendang Dalam (Site 50) Bukit Batu Pahat",
+            "description": "Discovered at Kampung Bendang Dalam Merbok in the 1960s, this temple structure is situated to the west of Sungai Bujang. Research and excavation works were later carried out in 1974, 1976 and 1981 by the Department of Museums and Antiquities. \n\nWith Hindu influences prevalent throughout the temple complex structures such as the Vimana (6.75 metres x 6.25 metres) and the Mandapa (6.75 metres x 6.20 metres) were built using laterite and devoid of foundation. The structure is estimated to have been built during the 12th to 13th century.",
+            "image": [
+        		""
+      		],
+      		"tags": [
+      			""
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000022",
+            "name": "Sipadan Island",
+            "description": "Sipadan is the only oceanic island in Malaysia, rising 600 metres (2,000 ft) from the seabed. It is located in the Celebes Sea off the east coast of Sabah, East Malaysia (which is on the island of Borneo). It was formed by living corals growing on top of an extinct volcanic cone that took thousands of years to develop. Sipadan is located at the heart of the Indo-Pacific basin, the centre of one of the richest marine habitats in the world. More than 3,000 species of fish and hundreds of coral species have been classified in this ecosystem. Sipadan has been rated by many dive journals as one of the top destinations for diving in the world.",
+            "image": [
+        		"bg__img_sipadan"
+      		],
+      		"tags": [
+      			"OP003",
+      			"OP006"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 4.11468,
+        		"longitude": 118.62876
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000023",
+            "name": "Putra Mosque",
+            "description": "The pink-domed Putra Mosque is constructed with rose-tinted granite and can accommodate 15,000 worshippers at any one time. The basement wall of the mosque resembles that of the King Hassan Mosque in Casablanca, Morocco.\n\nThe mosque consists of three main functional areas - the prayer hall, the Sahn, or courtyard, and various learning facilities and function rooms. The prayer hall is simple and elegant, supported by 12 columns. The highest point below the dome is 250 feet above ground level.\n\nThe Sahn, landscaped with several decorative water features and bordered by colonnades, provides a huge yet welcoming and beautiful prayer space. \n\nIts impressive minaret is influenced by the design of the Sheikh Omar Mosque in Baghdad. At 116m, it is one of the tallest minarets in the region and has five tiers, representing the Five Pillars of Islam.",
+            "image": [
+        		"bg__img_putra_mosque"
+      		],
+      		"tags": [
+      			"OP002",
+      			"OP007"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 2.93612,
+        		"longitude": 101.68896
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000024",
+            "name": "Banjaran Hotsprings Retreat",
+            "description": "The Banjaran Hotsprings Retreat is an integrated luxury wellness retreat located in Tambun, 15 minutes from the city of Ipoh in the state of Perak. This 5-star retreat includes private villas situated on a 17 acre valley nestled within a cluster of magnificent limestone hills and features a combination of natural caves, pristine jungle, waterfalls and geothermal hot springs. The Banjaran is strategically located between two major cities in Malaysia, which is Penang (a one and half hours drive) and Kuala Lumpur (a two hour drive)",
+            "image": [
+        		"bg__img_banjaran_hotspring"
+      		],
+      		"tags": [
+      			"OP003",
+      			"OP010"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 4.61528,
+        		"longitude": 101.07895
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000025",
+            "name": "Panorama Hill",
+            "description": "Nearby Sungai Lembing is Bukit Panorama, which is a popular place to watch the sunrise. 16 km from Sg. Lembing is Gunung Tapis Nature Park, where one can camp, fish, and shoot the rapids. Gunung Tapis itself is 1,512 m high. On the way to Sg. Lembing at the hamlet of Panching[1] is Gua Charas, a temple cave that is a popular tourist destination, also Sungai Pandan Waterfall, which is 29 km from Kuantan.",
+            "image": [
+        		"bg__img_mt_panorama"
+      		],
+      		"tags": [
+      			"OP004",
+      			"OP003"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 0,
+        		"longitude": 0
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000026",
+            "name": "Kenyir Lake",
+            "description": "Tasik Kenyir is a reservoir lake formed from the damming of the Kenyir River in Ulu (upriver) Terengganu. The lake is very large and contains some islands. Because of its inland location and moderate elevation above sea level, its climate is somewhat cooler and moister than on the seacoast. There is a breathtaking view from the top of the dam itself, and many visitors hire a boat to see the rest. There are also caves and a small waterfall nearby.",
+            "image": [
+        		"bg__img_lake_kenyir"
+      		],
+      		"tags": [
+      			"OP003",
+      			"OP006"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 5.00916,
+        		"longitude": 102.63310
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000027",
+            "name": "Semporna",
+            "description": "Semporna is a city on east coast of Sabah. It has a population of around 135,000. While there is not much to see and do in Semporna itself, it is frequently used as a gateway for diving and snorkeling trips to the nearby islands of Sipadan, Mabul, Kapalai, Mataking~, Maiga and others.",
+            "image": [
+        		"bg__img_semporna"
+      		],
+      		"operating_hours": [
+                "OP005",
+                "OP010"
+            ],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 4.43633,
+        		"longitude": 118.53184
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000028",
+            "name": "Pulau Perhentian",
+            "description": "The two main islands are Pulau Perhentian Besar ('Big Perhentian Island') and Pulau Perhentian Kecil ('Small Perhentian Island'). Kecil attracts more travellers as it has cheaper accommodation, while Besar is a little more expensive and caters more to families and those who want to avoid the backpacker party scene.\n\nThe small, uninhabited islands of Susu Dara, Seringgi and Rawa lie off Kecil. All the islands belong to a protected marine park, which means that fishing, collecting coral and littering are strictly prohibited, although in practice litter is one of the major problems that face the islands.",
+            "image": [
+        		"bg__img_perhentian"
+      		],
+      		"tags": [
+      			"OP005",
+      			"OP010"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 5.90379,
+        		"longitude": 102.75374
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000029",
+            "name": "Pulau Redang",
+            "description": "Pulau Redang (Redang Island) is famous for its crystal clear waters, white sandy beaches, and the tropical fish that inhabit the numerous reefs, many within 50 feet of the shore.\n\nIn contrast to the neighboring Perhentian Islands backpacker hangout, Redang has a more upmarket image, as almost all accommodation on the island is resort-based. The largest beach is Pasir Panjang on the east side, featuring half a dozen resorts. However, on the south end this beach usually has more choppy water and the beaches will have more debris than the beaches around the bend to the north. The snorkeling is also found to the north of Pasir Panjang. Scheduling your vacation around the summer school break will mean drastically fewer people at the resorts and it would not be uncommon on the beaches on the north end of the beach for you to be one of only a handful of people if not the only person on the beach.",
+            "image": [
+        		"bg__img_redang"
+      		],
+      		"tags": [
+      			"OP010",
+      			"OP005"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 5.78444,
+        		"longitude": 103.00689
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        },
+        {
+            "id": "00000030",
+            "name": "Cameron Highlands",
+            "description": "Cameron Highlands is Malaysia’s most famous hill resort and its cool mountain climate has been attracting visitors since the 1930s. During the British colonial period expats began to build mansions there as retreats from the heat and humidity of the capital, many of which still stand today as hotels. There are more than a dozen trails through the rainforest ranging from easy walks to serious treks and the region is a great spot to see monkeys, birds, butterflies and frogs. The area is also home to strawberry farms and vast tea plantations on the terraces that hug the base of the mountains, earning it the nickname Malaysia’s 'Green Bowl'.",
+            "image": [
+        		"bg__img_cameron_highlands"
+      		],
+      		"tags": [
+      			"OP010",
+      			"OP008"
+      		],
+      		"address": [
+        		""
+      		],
+      		"contact": {
+       			"tel": "",
+        		"fax": "",
+        		"email": ""
+      		},
+      		"geo_location": {
+        		"latitude": 4.51202,
+        		"longitude": 101.47935
+      		},
+      		"visit_info": {
+      			"operating_hours":[
+      				 "Monday to Saturday, 0900 - 1700",
+                	 "Friday, 0900 - 1200, 1500 - 1700"
+      			],
+      			"admission_fee" : [
+      				"Free"
+      			]
+      		},
+      		"tour_guides" : [
+      			"TGID0000001",
+      			"TGID0000002",
+      			"TGID0000003",
+      			"TGID0000004",
+      			"TGID0000005",
+      			"TGID0000006",
+      			"TGID0000007",
+      			"TGID0000008",
+      			"TGID0000009"
+      		]
+        }
+    ],
+    "test": {
+        "testValue": "value",
+        "testValue2": "value2"
+    },
+    "charts": "charts"
+}

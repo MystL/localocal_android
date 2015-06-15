@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    >
+    
+    <ImageView 
+        android:id="@+id/about__img_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/common_img_desc"
+        />
+    
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/BlackTransluscent"
+        />
+	
+    <ScrollView 
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="60dp"
+        >
+        
+        <RelativeLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            >
+            
+            <ImageView
+		        android:id="@+id/about__img_logo"
+		        android:layout_width="248dp"
+		        android:layout_height="149dp"
+		        android:scaleType="fitXY"
+		        android:contentDescription="@string/common_img_desc"
+		        android:layout_alignParentTop="true"
+		        android:layout_centerHorizontal="true"
+		        android:background="@null"
+		        />
+		    
+		    <TextView
+		        android:id="@+id/about__lbl_about_title"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text=""
+		        android:textSize="16sp"
+		        android:textColor="#FFFFFF"
+		        android:textStyle="normal"
+		        android:layout_below="@id/about__img_logo"
+		        android:layout_marginTop="10dp"
+		        android:layout_centerHorizontal="true"
+		        android:layout_marginLeft="15dp"
+		        android:layout_marginRight="15dp"
+		        />
+		    
+		    <LinearLayout
+		        android:id="@+id/about__paragraph_layout"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:orientation="vertical"
+		        android:layout_below="@id/about__lbl_about_title"
+		        android:layout_centerHorizontal="true"
+		        android:layout_marginLeft="30dp"
+		        android:layout_marginRight="30dp"
+		        android:layout_marginTop="10dp"
+		        android:layout_marginBottom="10dp"
+		        />
+
+		    <TextView 
+		        android:id="@+id/about__lbl_about_beta"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginLeft="15dp"
+		        android:layout_marginRight="15dp"
+		        android:text=""
+		        android:textSize="16sp"
+		        android:textColor="#FFFFFF"
+		        android:textStyle="normal"
+		        android:layout_below="@id/about__paragraph_layout"
+		        android:layout_centerHorizontal="true"
+		        />
+		    
+		    <RelativeLayout
+		        android:id="@+id/about__empy_spaces"
+		        android:layout_width="fill_parent"
+		        android:layout_height="40dp"
+		        android:layout_below="@id/about__lbl_about_beta"
+		        />
+		    
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

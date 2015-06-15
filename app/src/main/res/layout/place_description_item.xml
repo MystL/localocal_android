@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null">
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/BlackTransluscent"
+        >
+        
+        <RelativeLayout
+            android:id="@+id/place_description__title_layout"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginRight="5dp"
+	        android:background="@layout/common_border_bottom"
+	        >
+	        
+	        <TextView 
+	            android:id="@+id/place_description__lbl_title"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text=""
+	            android:textSize="22sp"
+	            android:textStyle="normal"
+	            android:textColor="#FFFFFF"
+	            android:layout_centerVertical="true"
+	            android:singleLine="true"
+	            android:ellipsize="marquee"
+	            />
+    	
+    	</RelativeLayout>
+        
+        <TextView 
+            android:id="@+id/place_description__lbl_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_below="@id/place_description__title_layout"
+            />
+    	
+    </RelativeLayout>
+
+</RelativeLayout>

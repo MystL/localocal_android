@@ -1,0 +1,54 @@
+{
+    "preferred_options": [
+        {
+        	"id": "OP001",
+        	"name": "Food",
+        	"thumbnail": "ic__img_food"
+        },
+        {
+        	"id": "OP002",
+        	"name": "Heritage",
+        	"thumbnail": "ic__img_heritage"
+        },
+        {
+        	"id": "OP003",
+        	"name": "Nature",
+        	"thumbnail": "ic__img_nature"
+        },
+        {
+        	"id": "OP004",
+        	"name": "Trekking",
+        	"thumbnail": "ic__img_trekking"
+        },
+        {
+        	"id": "OP005",
+        	"name": "Water Sports",
+        	"thumbnail": "ic__img_water"
+        },
+        {
+        	"id": "OP006",
+        	"name": "Adventure",
+        	"thumbnail": "ic__img_adventure"
+        },
+        {
+        	"id": "OP007",
+        	"name": "Arts & Design",
+        	"thumbnail": "ic__img_art"
+        },
+        {
+        	"id": "OP008",
+        	"name": "Local Culture",
+        	"thumbnail": "ic__img_local_culture"
+        },
+        {
+        	"id": "OP009",
+        	"name": "Nightlife",
+        	"thumbnail": "ic__img_nightlife"
+        },
+        {
+        	"id": "OP010",
+        	"name": "Family",
+        	"thumbnail": "ic__img_family"
+        }
+    ]
+}

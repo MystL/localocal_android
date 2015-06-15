@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp" >
+    
+	<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/BlackTransluscent"
+        >
+        
+        <RelativeLayout
+            android:id="@+id/tour_guides__title_layout"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginRight="5dp"
+	        android:background="@layout/common_border_bottom"
+	        >
+	        
+	        <TextView 
+	            android:id="@+id/tour_guides__lbl_title"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text=""
+	            android:textSize="22sp"
+	            android:textStyle="normal"
+	            android:textColor="#FFFFFF"
+	            android:layout_centerVertical="true"
+	            android:singleLine="true"
+	            android:ellipsize="marquee"
+	            />
+    	
+    	</RelativeLayout>
+        
+		<my.localocal.gridview.NonScrollableGridView
+		    android:id="@+id/tour_guides__gridview"
+		    android:layout_width="wrap_content" 
+		    android:layout_height="wrap_content"
+		    android:columnWidth="90dp"
+		    android:numColumns="3"
+		    android:verticalSpacing="5dp"
+		    android:horizontalSpacing="5dp"
+		    android:stretchMode="columnWidth"
+		    android:gravity="center"
+		    android:layout_below="@id/tour_guides__title_layout"
+		    android:layout_marginLeft="5dp"
+	        android:layout_marginRight="5dp"
+	        android:layout_marginTop="5dp"
+	        android:listSelector="@android:color/transparent"
+			/>
+		
+		<View 
+		    android:layout_width="fill_parent"
+		    android:layout_height="10dp"
+		    android:layout_below="@id/tour_guides__gridview"
+		    android:background="@null"
+		    />
+    	
+    </RelativeLayout>
+    
+    
+</RelativeLayout>

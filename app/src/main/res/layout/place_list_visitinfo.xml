@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null">
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/BlackTransluscent"
+        >
+        
+        <RelativeLayout
+            android:id="@+id/visit_info__title_layout"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginRight="5dp"
+	        android:background="@layout/common_border_bottom"
+	        >
+	        
+	        <TextView 
+	            android:id="@+id/visit_info__lbl_title"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text=""
+	            android:textSize="22sp"
+	            android:textStyle="normal"
+	            android:textColor="#FFFFFF"
+	            android:layout_centerVertical="true"
+	            android:singleLine="true"
+	            android:ellipsize="marquee"
+	            />
+    	
+    	</RelativeLayout>
+        
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_below="@id/visit_info__title_layout"
+            >
+            
+            <TextView
+                android:id="@+id/visit_info__lbl_title_operatinghours"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginRight="5dp"
+                />
+            
+            <TextView 
+                android:id="@+id/visit_info__lbl_operatinghours"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:textColor="#FFFFFF"
+                android:layout_toRightOf="@id/visit_info__lbl_title_operatinghours"
+                android:layout_marginLeft="5dp" 
+                />
+            
+            <TextView
+                android:id="@+id/visit_info__lbl_title_entrancefee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_below="@id/visit_info__lbl_operatinghours"
+                />
+            
+            <TextView 
+                android:id="@+id/visit_info__lbl_entrancefee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="16sp"
+                android:textStyle="normal"
+                android:textColor="#FFFFFF"
+                android:layout_toRightOf="@id/visit_info__lbl_title_entrancefee"
+                android:layout_below="@id/visit_info__lbl_operatinghours"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="30dp" 
+                />
+            
+        </RelativeLayout>
+    	
+    </RelativeLayout>
+    
+
+</RelativeLayout>

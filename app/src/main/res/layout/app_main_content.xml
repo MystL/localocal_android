@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <ImageView 
+		android:id="@+id/main_view__img_bg"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:scaleType="fitXY"
+		android:contentDescription="@string/common_img_desc"
+		/>
+    
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        >
+        
+        <RelativeLayout 
+	        android:id="@+id/profiling__layout"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@color/BlackTransluscent"
+	        >
+	        
+	        <TextView 
+	            android:id="@+id/profiling__lbl_welcome"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="Help us know more about you. :D\nSelect your preferred categories below"
+	            android:textSize="16sp"
+	            android:textStyle="normal"
+	            android:textColor="#FFFFFF"
+	            android:layout_centerHorizontal="true"
+	            android:layout_marginLeft="30dp"
+	            android:layout_marginRight="30dp"
+	            android:gravity="center"
+	            />
+	        
+	        <RelativeLayout
+		        android:id="@+id/profiling_gridview_layout"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_below="@id/profiling__lbl_welcome"
+		        android:layout_marginTop="10dp"
+		        >
+		        
+		        <my.localocal.gridview.NonScrollableGridView
+					android:id="@+id/profiling_gridview"
+					android:layout_width="wrap_content" 
+					android:layout_height="wrap_content"
+					android:columnWidth="100dp"
+					android:numColumns="2"
+					android:verticalSpacing="5dp"
+					android:horizontalSpacing="5dp"
+					android:stretchMode="columnWidth"
+					android:gravity="center"
+					android:layout_marginLeft="5dp"
+					android:layout_marginRight="5dp"
+					android:listSelector="@android:color/transparent"
+					/>
+	
+	    	</RelativeLayout>
+	        
+	        <RelativeLayout 
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_below="@id/profiling_gridview_layout"
+		        >
+		        
+		        <Button 
+			        android:id="@+id/profiling__btn_save"
+			        android:layout_width="fill_parent"
+			        android:layout_height="50dp"
+			        android:text="Save Preference"
+			        android:textColor="#FFFFFF"
+			        android:textSize="16sp"
+			        android:textStyle="bold"
+			        android:layout_marginLeft="40dp"
+			        android:layout_marginRight="40dp"
+			        />
+	    	</RelativeLayout>
+	    </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

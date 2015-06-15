@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularImageView"><attr format="boolean" name="border"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="shadow"/></declare-styleable>
+    <declare-styleable name="Theme"><attr format="reference" name="circularImageViewStyle"/></declare-styleable>
+    <!-- From: file:/Users/melvinlee/Development/RadioactiveAndroidStudio/LocaLocal/third_party/CircularImageView/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CircularImageView</string>
+    <!-- From: file:/Users/melvinlee/Development/RadioactiveAndroidStudio/LocaLocal/third_party/CircularImageView/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BlackTransluscent"
+    >
+    
+    <RelativeLayout
+        android:id="@+id/view__tourguide__layout"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+  		android:background="@layout/common_border"
+        >
+        
+        <TextView 
+            android:id="@+id/view_tourguide__lbl_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:layout_margin="5dp"
+            android:layout_centerInParent="true"
+            />
+        
+        
+    </RelativeLayout>
+    
+
+</RelativeLayout>
+

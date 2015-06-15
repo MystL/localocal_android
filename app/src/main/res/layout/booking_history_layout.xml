@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    >
+    
+    <ImageView
+        android:id="@+id/booking_history__img_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:background="@null"
+        android:contentDescription="@string/common_img_desc"
+        />
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/BlackTransluscent"
+        />
+
+    <RelativeLayout
+        android:id="@+id/booking_history__title_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@layout/common_border_bottom"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="60dp"
+        >
+        
+        <TextView 
+            android:id="@+id/booking_history__lbl_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Booking History"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            android:textColor="#FFFFFF"
+            android:layout_centerVertical="true"
+            android:singleLine="true"
+            android:ellipsize="marquee"
+            />
+    	
+    </RelativeLayout>
+    
+    <ListView
+        android:id="@+id/booking_history__list" 
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:background="@null"
+  	   	android:cacheColorHint="#00000000"
+  	   	android:divider="@color/DarkGrey"
+		android:dividerHeight="2dp"
+		android:fadingEdge="vertical"
+		android:overScrollMode="never"
+		android:scrollbars="none"
+  	   	android:listSelector="@android:color/transparent"
+  	   	android:layout_marginTop="10dp"
+  	   	android:layout_marginLeft="5dp"
+    	android:layout_marginRight="5dp"
+    	android:layout_below="@id/booking_history__title_layout"
+        />
+    
+    <TextView 
+        android:id="@+id/booking_history__lbl_empty"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="Sorry, we couldn't find any of your booking record at the moment.\nPlease come back again later :D"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        android:textColor="#FFFFFF"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:visibility="gone"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        />
+	
+</RelativeLayout>

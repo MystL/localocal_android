@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    >
+    
+    <ImageView
+        android:id="@+id/account__img_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:background="@color/BlackTransluscent"
+        android:contentDescription="@string/common_img_desc"
+        />
+    
+    <RelativeLayout 
+            android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:background="@color/BlackTransluscent"
+            />
+            
+    <ScrollView 
+        android:id="@+id/scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="60dp"
+        >
+
+            <RelativeLayout 
+	            android:layout_width="fill_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_marginLeft="10dp"
+		    	android:layout_marginRight="10dp"
+	            >
+	            
+	            <RelativeLayout
+		        	android:id="@+id/account__general_layout"
+		            android:layout_width="fill_parent"
+		            android:layout_height="wrap_content"
+		            android:background="@layout/common_border_bottom"
+		            android:layout_marginTop="10dp" >
+		                
+		            <TextView 
+			           android:id="@+id/account__lbl_general"
+			           android:layout_width="wrap_content"
+				       android:layout_height="wrap_content"
+				       android:text="General"
+				       android:textSize="18sp"
+				       android:textStyle="bold"
+				       android:textColor="#FFFFFF"
+				       android:layout_centerVertical="true" />
+		                
+		         </RelativeLayout>
+	            
+	            <RelativeLayout 
+	                android:id="@+id/account__info_layout"
+	                android:layout_width="fill_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_marginTop="5dp"
+		            android:layout_below="@id/account__general_layout"
+		            >
+	                
+	                <com.mikhaellopez.circularimageview.CircularImageView
+	                    android:id="@+id/account__img_profile"
+	                    android:layout_width="180dp"
+	                    android:layout_height="180dp"
+	                    android:contentDescription="@string/common_img_desc"
+	                    android:scaleType="fitXY"
+	                    android:background="@null"
+	                    android:layout_centerHorizontal="true"
+	                    />
+	                
+	                <ImageView 
+	                    android:id="@+id/account__img_account_type"
+	                    android:layout_width="35dp"
+	                    android:layout_height="35dp"
+	                    android:contentDescription="@string/common_img_desc"
+	                    android:scaleType="fitXY"
+	                    android:background="@null"
+	                    android:layout_alignBottom="@id/account__img_profile"
+	                    android:layout_centerHorizontal="true"
+	                    android:visibility="gone"
+	                    />
+	                
+	                <TextView
+	                    android:id="@+id/account__lbl_nameTitle"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="wrap_content"
+	                    android:text="Account Name : "
+	                    android:textSize="14sp"
+	                    android:textStyle="bold"
+	                    android:textColor="#FFFFFF"
+	                	android:layout_below="@id/account__img_profile"
+	                	android:layout_marginLeft="10dp"
+	                	android:layout_marginRight="10dp"
+	                	android:layout_marginTop="10dp"
+	                	/>
+	                
+	                <TextView
+	                    android:id="@+id/account__lbl_name"
+	                    android:layout_height="wrap_content"
+	                    android:layout_width="wrap_content"
+	                    android:text=""
+	                    android:textSize="14sp"
+	                    android:textStyle="normal"
+	                    android:textColor="#FFFFFF"
+	                	android:layout_below="@id/account__img_profile"
+	                	android:layout_toRightOf="@id/account__lbl_nameTitle"
+	                	android:layout_marginTop="10dp"
+	                	/>
+	                
+	                <TextView 
+	                    android:id="@+id/account__lbl_preferenceTitle"
+	                    android:layout_height="wrap_content"
+	                    android:layout_width="wrap_content"
+	                    android:text="Preferred Attractions : "
+	                    android:textSize="14sp"
+	                    android:textStyle="bold"
+	                    android:textColor="#FFFFFF"
+	                	android:layout_below="@id/account__lbl_name"
+	                	android:layout_marginLeft="10dp"
+	                	android:layout_marginRight="10dp"
+	                    />
+	                
+	                <TextView 
+	                    android:id="@+id/account__lbl_preference"
+	                    android:layout_height="wrap_content"
+	                    android:layout_width="wrap_content"
+	                    android:text=""
+	                    android:textSize="14sp"
+	                    android:textStyle="normal"
+	                    android:textColor="#FFFFFF"
+	                	android:layout_below="@id/account__lbl_name"
+	                	android:layout_toRightOf="@id/account__lbl_preferenceTitle"
+	                    />
+	                
+	            </RelativeLayout>
+	            
+	            <TextView 
+	                    android:id="@+id/account__lbl_noaccount"
+	                    android:layout_height="wrap_content"
+	                    android:layout_width="wrap_content"
+	                    android:text="There is currently no signed-in account"
+	                    android:textSize="14sp"
+	                    android:textStyle="bold"
+	                    android:textColor="#FFFFFF"
+	                    android:layout_centerHorizontal="true"
+	                    android:layout_marginTop="40dp"
+	                    android:visibility="invisible"
+	                    />
+	            
+	            <RelativeLayout
+		        	android:id="@+id/account__payment_layout"
+		            android:layout_width="fill_parent"
+		            android:layout_height="wrap_content"
+		            android:background="@layout/common_border_bottom"
+		            android:layout_marginTop="30dp"
+		            android:layout_below="@id/account__info_layout"
+		            >
+		                
+		            <TextView 
+			           android:id="@+id/account__lbl_paymentTitle"
+			           android:layout_width="wrap_content"
+				       android:layout_height="wrap_content"
+				       android:text="Payment Information"
+				       android:textSize="18sp"
+				       android:textStyle="bold"
+				       android:textColor="#FFFFFF"
+				       android:layout_centerVertical="true" />
+		                
+		         </RelativeLayout>
+		         
+	             <RelativeLayout 
+	                 android:id="@+id/account__payment_info_layout"
+	                 android:layout_width="wrap_content"
+	                 android:layout_height="wrap_content"
+	                 android:layout_marginLeft="10dp"
+	                 android:layout_marginRight="10dp"
+	                 android:layout_below="@id/account__payment_layout"
+	                 android:layout_centerHorizontal="true"
+	                 >
+	                 
+	                 <TextView 
+			           android:id="@+id/account__lbl_payment"
+			           android:layout_width="wrap_content"
+				       android:layout_height="wrap_content"
+				       android:text="Coming soon .. :D"
+				       android:textSize="14sp"
+				       android:textStyle="normal"
+				       android:textColor="#FFFFFF"
+				       android:layout_centerInParent="true"
+				       android:layout_marginTop="20dp"
+				       />
+	                 
+	                 
+	             </RelativeLayout>
+	            
+	        </RelativeLayout>
+            
+        
+    </ScrollView>
+</RelativeLayout>

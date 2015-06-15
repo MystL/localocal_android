@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@null"
+    >
+    
+    <RelativeLayout
+        android:id="@+id/navbar__layout"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        >
+        
+        <ImageView 
+            android:id="@+id/navbar__img_bg"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:background="@null"
+            android:scaleType="fitXY"
+            android:contentDescription="@string/common_img_desc"
+            />
+        
+        <ImageButton
+            android:id="@+id/navbar__btn_menu"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/common_img_desc"
+            android:scaleType="fitCenter"
+            android:layout_alignParentLeft="true"
+            android:background="@null"
+            android:layout_centerVertical="true"
+            />
+        
+        <TextView
+            android:id="@+id/navbar__lbl_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text=""
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="45dp"
+            />
+        
+        <ImageButton
+            android:id="@+id/navbar__btn_booktour"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/common_img_desc"
+            android:scaleType="fitCenter"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:layout_centerVertical="true"
+            />
+        
+    </RelativeLayout>
+
+</RelativeLayout>

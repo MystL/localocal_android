@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/Black"
+    >
+    
+    <ImageView
+        android:id="@+id/booking_review__img_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:background="@color/BlackTransluscent"
+        android:contentDescription="@string/common_img_desc"
+        />
+    
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="?android:attr/actionBarSize"
+        android:background="@color/BlackTransluscent"
+        >
+        
+        <RelativeLayout 
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@color/BlackTransluscent" >
+        	
+            <RelativeLayout 
+                android:id="@+id/booking_review__summary_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                >
+                
+                <RelativeLayout
+	                android:id="@+id/booking_review__summary_title_layout"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:background="@layout/common_border_bottom"
+	                android:layout_marginTop="10dp"
+	                android:layout_marginLeft="10dp"
+	                android:layout_marginRight="10dp" >
+	    	        <TextView 
+		                android:id="@+id/booking_review__lbl_summary"
+		                android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:text="Booking Summary"
+			            android:textSize="18sp"
+			            android:textStyle="bold"
+			            android:textColor="#FFFFFF"
+			            android:layout_centerVertical="true"
+		                />
+	    	    </RelativeLayout>
+                
+                <LinearLayout
+                    android:id="@+id/booking_review__summary_info_layout"
+                    android:layout_width="fill_parent"
+                	android:layout_height="wrap_content" 
+                    android:layout_below="@id/booking_review__summary_title_layout"
+                    android:weightSum="5"
+                    android:orientation="vertical"
+                    android:layout_marginTop="10dp"
+                	android:layout_marginLeft="15dp"
+	                android:layout_marginRight="15dp" 
+                    >
+                    
+                    <RelativeLayout 
+	                    android:layout_width="fill_parent"
+	                	android:layout_height="0dip"
+	                	android:layout_weight="1"
+	                	android:layout_marginTop="2dp"
+	                	android:layout_marginBottom="2dp"
+	                    >
+		    	        
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_place_title"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text="Place :"
+	                        android:textSize="16sp"
+	                        android:textStyle="bold"
+	                        android:textColor="#FFFFFF"
+	                        />
+	                    
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_place"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text=""
+	                        android:textSize="16sp"
+	                        android:textStyle="normal"
+	                        android:textColor="#FFFFFF"
+	                        android:layout_toRightOf="@id/booking_review__lbl_place_title"
+	                        />
+               		</RelativeLayout>
+               		
+                    <RelativeLayout 
+	                    android:layout_width="fill_parent"
+	                	android:layout_height="0dip"
+	                	android:layout_weight="1"
+	                	android:layout_marginTop="2dp"
+	                	android:layout_marginBottom="2dp"
+	                    >
+		    	        
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_date_title"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text="Tour Date :"
+	                        android:textSize="16sp"
+	                        android:textStyle="bold"
+	                        android:textColor="#FFFFFF"
+	                        />
+	                    
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_date"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text=""
+	                        android:textSize="16sp"
+	                        android:textStyle="normal"
+	                        android:textColor="#FFFFFF"
+	                        android:layout_toRightOf="@id/booking_review__lbl_date_title"
+	                        />
+               		</RelativeLayout>
+                    
+                    <RelativeLayout 
+	                    android:layout_width="fill_parent"
+	                	android:layout_height="0dip"
+	                	android:layout_weight="1"
+	                	android:layout_marginTop="2dp"
+	                	android:layout_marginBottom="2dp"
+	                    >
+		    	        
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_duration_title"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text="Tour Date :"
+	                        android:textSize="16sp"
+	                        android:textStyle="bold"
+	                        android:textColor="#FFFFFF"
+	                        />
+	                    
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_duration"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text=""
+	                        android:textSize="16sp"
+	                        android:textStyle="normal"
+	                        android:textColor="#FFFFFF"
+	                        android:layout_toRightOf="@id/booking_review__lbl_duration_title"
+	                        />
+               		</RelativeLayout>
+                    
+                    <RelativeLayout 
+	                    android:layout_width="fill_parent"
+	                	android:layout_height="0dip"
+	                	android:layout_weight="1"
+	                	android:layout_marginTop="2dp"
+	                	android:layout_marginBottom="2dp"
+	                    >
+		    	        
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_tourguide_title"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text="Tour Guide :"
+	                        android:textSize="16sp"
+	                        android:textStyle="bold"
+	                        android:textColor="#FFFFFF"
+	                        />
+	                    
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_tourguide"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text=""
+	                        android:textSize="16sp"
+	                        android:textStyle="normal"
+	                        android:textColor="#FFFFFF"
+	                        android:layout_toRightOf="@id/booking_review__lbl_tourguide_title"
+	                        />
+               		</RelativeLayout>
+               		
+                    <RelativeLayout 
+	                    android:layout_width="fill_parent"
+	                	android:layout_height="0dip"
+	                	android:layout_weight="1"
+	                	android:layout_marginTop="2dp"
+	                	android:layout_marginBottom="2dp"
+	                    >
+		    	        
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_price_title"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text="Charges :"
+	                        android:textSize="16sp"
+	                        android:textStyle="bold"
+	                        android:textColor="#FFFFFF"
+	                        />
+	                    
+	                    <TextView 
+	                        android:id="@+id/booking_review__lbl_price"
+	                        android:layout_width="wrap_content"
+	                        android:layout_height="wrap_content"
+	                        android:text=""
+	                        android:textSize="16sp"
+	                        android:textStyle="normal"
+	                        android:textColor="#FFFFFF"
+	                        android:layout_toRightOf="@id/booking_review__lbl_price_title"
+	                        />
+               		</RelativeLayout>
+                    
+                </LinearLayout>
+                
+                <Button 
+                    android:id="@+id/booking_review__btn_booktour"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Book Tour"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold"
+                    android:textSize="16sp"
+                    android:layout_below="@id/booking_review__summary_info_layout"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginRight="40dp"
+                    android:layout_marginTop="10dp"
+                    />
+                
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

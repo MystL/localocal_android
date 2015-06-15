@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent"
+	android:background="#000000" >
+
+	<include android:id="@+id/app_main_view" android:layout_gravity="top" android:gravity="top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:visibility="gone" layout="@layout/main" />
+	<include android:id="@+id/app_loading" android:layout_width="fill_parent" android:visibility="gone"
+		android:layout_gravity="top"
+		android:gravity="top"
+		android:layout_height="fill_parent" layout="@layout/startup_loading" />
+	
+	<RelativeLayout 
+	    android:id="@+id/loading__login_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="110dp"
+	 	android:layout_marginTop="15dp"
+	 	android:layout_centerHorizontal="true"
+	 	android:layout_alignParentBottom="true"
+	 	android:layout_marginBottom="45dp"
+	 	android:visibility="gone"
+	    >
+	    
+	    <com.facebook.widget.LoginButton
+	        xmlns:fb="http://schemas.android.com/apk/res-auto"
+	        android:id="@+id/loading__btn_facebook"
+	        android:layout_width="fill_parent"
+	        android:layout_height="45dp"
+        	android:layout_marginLeft="40dp"
+        	android:layout_marginRight="40dp"
+        	android:contentDescription="@string/common_img_desc"
+        	android:background="@null"
+        	android:scaleType="fitXY"
+        	fb:login_text=""
+        	fb:logout_text=""
+	        />
+	    
+	    <ImageButton 
+	        android:id="@+id/loading__btn_cancel"
+	        android:layout_width="fill_parent"
+	        android:layout_height="45dp"
+	        android:layout_marginTop="10dp"
+        	android:layout_marginLeft="40dp"
+        	android:layout_marginRight="40dp"
+        	android:contentDescription="@string/common_img_desc"
+        	android:layout_below="@id/loading__btn_facebook"
+        	android:background="@null"
+        	android:scaleType="fitXY"
+	        />
+	    
+	</RelativeLayout>
+	
+</RelativeLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    >
+    
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/BlackTransluscent"
+        >
+        
+        <my.localocal.circularimageview.RoundedImageView
+            android:id="@+id/booking_history_item__img_thumbnail"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
+            android:contentDescription="@string/common_img_desc"
+            android:background="@null"
+            android:scaleType="centerCrop"
+            android:layout_margin="5dp"
+            />
+        
+        <RelativeLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/booking_history_item__img_thumbnail"
+            android:layout_marginTop="5dp"
+            >
+            
+            <TextView 
+                android:id="@+id/booking_history_item__lbl_place"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="14sp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:maxLines="2"
+                android:layout_marginTop="3dp"
+                />
+            
+            <TextView
+                android:id="@+id/booking_history_item__lbl_tourdateTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="14sp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_below="@id/booking_history_item__lbl_place"
+                android:layout_marginTop="1dp"
+                />
+            
+            <TextView
+                android:id="@+id/booking_history_item__lbl_tourdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="14sp"
+                android:textColor="#FFFFFF"
+                android:textStyle="normal"
+                android:layout_below="@id/booking_history_item__lbl_place"
+                android:layout_toRightOf="@id/booking_history_item__lbl_tourdateTitle"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="10dp"
+                />
+            
+            <TextView
+                android:id="@+id/booking_history_item__lbl_statusTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="14sp"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:layout_below="@id/booking_history_item__lbl_tourdateTitle"
+                android:layout_marginTop="1dp"
+                />
+            
+            <TextView
+                android:id="@+id/booking_history_item__lbl_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="14sp"
+                android:textColor="#FFFFFF"
+                android:textStyle="normal"
+                android:layout_below="@id/booking_history_item__lbl_tourdateTitle"
+                android:layout_toRightOf="@id/booking_history_item__lbl_statusTitle"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="10dp"
+                />
+            
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

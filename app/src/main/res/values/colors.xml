@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="Transparent">#0000</color>
+	<color name="Red">#F00</color>
+	<color name="Green">#0F0</color>
+	<color name="Blue">#00F</color>
+	<color name="Black">#000</color>
+	<color name="BlackTransluscent">#6000</color>
+	<color name="BlackTransluscentLight">#30000000</color>
+	<color name="RedTransluscent">#7F00</color>
+	<color name="default_color">#000</color>
+	<color name="default_bg_color">#0000</color>
+	<color name="LightGrey">#808080</color>
+	<color name="DarkGrey">#404040</color>
+	<color name="LightGreyForCircularImage">#EEEEEE</color>	
+	<color name="White">#FFFFFF</color>
+</resources>

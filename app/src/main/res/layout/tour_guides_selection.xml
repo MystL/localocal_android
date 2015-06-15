@@ -1,0 +1,268 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    >
+	
+    <ImageView 
+        android:id="@+id/tour_guide_selection__img_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="fitXY"
+        android:background="@color/BlackTransluscent"
+        android:contentDescription="@string/common_img_desc"
+        />
+    
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="?android:attr/actionBarSize"
+        >
+        <RelativeLayout 
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@color/BlackTransluscent"
+	        >
+	        
+	        <RelativeLayout 
+	            android:id="@+id/tour_guide__filter_layout"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginLeft="10dp"
+	            android:layout_marginRight="10dp"
+	            android:background="@null"
+	            >
+	            
+	            <RelativeLayout
+	                android:id="@+id/tour_guide__filter_instruction_layout"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:background="@layout/common_border_bottom"
+	                android:layout_marginTop="10dp"
+	                >
+	                
+	                <TextView 
+		                android:id="@+id/tour_guide__filter_lbl_instruction"
+		                android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:text="Preferences"
+			            android:textSize="18sp"
+			            android:textStyle="bold"
+			            android:textColor="#FFFFFF"
+			            android:layout_centerVertical="true"
+		                />
+	                
+	                <Button 
+	                    android:id="@+id/tour_guide__filter_btn_expandCollapse"
+	                    android:layout_width="wrap_content"
+	                    android:layout_height="40dp"
+	                    android:contentDescription="@string/common_img_desc"
+	                    android:layout_alignParentRight="true"
+	                    android:layout_marginBottom="5dp"
+	                    android:text="Apply Filter"
+	                    android:textSize="12sp"
+	                    android:textColor="#FFFFFF"
+	                    android:textStyle="normal"
+	                    />
+	            </RelativeLayout>
+	
+	            <RelativeLayout 
+	                android:id="@+id/tour_guide__filter_selection_layout"
+	                android:layout_width="fill_parent"
+	                android:layout_height="wrap_content"
+	                android:layout_below="@id/tour_guide__filter_instruction_layout"
+	                android:layout_margin="10dp" 
+	                android:visibility="visible"
+	                >
+	                
+	                <LinearLayout
+	                    android:id="@+id/tour_guide__filter_button_layout"
+	                    android:layout_width="fill_parent"
+	                    android:layout_height="wrap_content"
+	                    android:orientation="vertical"
+	                    android:layout_marginBottom="10dp"
+	                    android:weightSum="3">
+	                    
+	                    <RelativeLayout
+	                        android:layout_width="fill_parent"
+		                    android:layout_height="0dip"
+		                    android:layout_weight="1">
+	                        
+	                        <TextView 
+		                        android:id="@+id/tour_guide__lbl_date_title"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text="Tour Date :"
+		                        android:textSize="16sp"
+		                        android:textStyle="normal"
+		                        android:textColor="#FFFFFF"
+		                        android:layout_centerVertical="true"
+		                        />
+	                        
+	                        <Button 
+			                    android:id="@+id/tour_guide__filter_btn_date"
+			                    android:layout_width="fill_parent"
+			                    android:layout_height="wrap_content"
+			                    android:text=""
+			                    android:textColor="#FFFFFF"
+			                    android:layout_toRightOf="@id/tour_guide__lbl_date_title"
+			                    android:layout_marginLeft="34dp"
+			                    />
+	                        
+	                        <TextView 
+		                        android:id="@+id/tour_guide__lbl_date"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text=""
+		                        android:textSize="16sp"
+		                        android:textStyle="bold"
+		                        android:textColor="#FFFFFF"
+		                        android:layout_toRightOf="@id/tour_guide__lbl_date_title"
+		                        />
+	                        
+	                    </RelativeLayout>
+	                    
+	                    <RelativeLayout
+	                        android:layout_width="fill_parent"
+		                    android:layout_height="0dip"
+		                    android:layout_weight="1">
+	                        
+	                        <TextView 
+		                        android:id="@+id/tour_guide__lbl_budget_title"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text="Tour Budget :"
+		                        android:textSize="16sp"
+		                        android:textStyle="normal"
+		                        android:textColor="#FFFFFF"
+								android:layout_centerVertical="true"
+		                        />
+	                        
+	                        <Button 
+			                    android:id="@+id/tour_guide__filter_btn_price"
+			                    android:layout_width="fill_parent"
+			                    android:layout_height="wrap_content"
+			                    android:text=""
+			                    android:textColor="#FFFFFF"
+			                    android:layout_toRightOf="@id/tour_guide__lbl_budget_title"
+			                    android:layout_marginLeft="15dp"
+			                    />
+	                       
+		                    <TextView 
+		                        android:id="@+id/tour_guide__lbl_budget"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text=""
+		                        android:textSize="16sp"
+		                        android:textStyle="bold"
+		                        android:textColor="#FFFFFF"
+		                        android:layout_toRightOf="@id/tour_guide__lbl_budget_title"
+		                        android:layout_marginLeft="15dp"
+		                        />
+	                        
+	                    </RelativeLayout>
+	                    
+	                    <RelativeLayout
+	                        android:layout_width="wrap_content"
+		                    android:layout_height="0dip"
+		                    android:layout_weight="1">
+	                        
+	                        <TextView 
+		                        android:id="@+id/tour_guide__lbl_duration_title"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text="Tour Duration :"
+		                        android:textSize="16sp"
+		                        android:textStyle="normal"
+		                        android:textColor="#FFFFFF"
+		                        android:layout_centerVertical="true"
+		                        />
+	                        
+	                        <Button 
+			                    android:id="@+id/tour_guide__filter_btn_duration"
+			                    android:layout_width="fill_parent"
+			                    android:layout_height="wrap_content"
+			                    android:text=""
+			                    android:textColor="#FFFFFF"
+			                    android:layout_toRightOf="@id/tour_guide__lbl_duration_title"
+			                    android:layout_marginLeft="5dp"
+			                    />
+	                        
+	                        <TextView 
+		                        android:id="@+id/tour_guide__lbl_duration"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text=""
+		                        android:textSize="16sp"
+		                        android:textStyle="bold"
+		                        android:textColor="#FFFFFF"
+		                        android:layout_toRightOf="@id/tour_guide__lbl_duration_title"
+		                        android:layout_marginLeft="5dp"
+		                        />
+	                        
+	                    </RelativeLayout>
+	                    
+	                </LinearLayout>
+	            </RelativeLayout>
+	        </RelativeLayout>
+	        
+	        <RelativeLayout 
+	            android:id="@+id/tour_guide__results_layout"
+	            android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:layout_below="@id/tour_guide__filter_layout"
+				android:layout_marginTop="10dp"
+				android:layout_marginLeft="10dp"
+				android:layout_marginRight="10dp"
+	            >
+	            
+	            <RelativeLayout
+		        	android:id="@+id/tour_guide__list_layout"
+		 			android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:background="@layout/common_border_bottom"
+					>
+					<TextView 
+						android:id="@+id/tour_guide__filter_lbl_results"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:text="Tour Guides"
+						android:textSize="18sp"
+						android:textStyle="bold"
+						android:textColor="#FFFFFF"
+						android:layout_centerVertical="true"
+						/>
+				</RelativeLayout>
+			
+		        <my.localocal.gridview.NonScrollableGridView
+				    android:id="@+id/tour_guides__gridview"
+				    android:layout_width="wrap_content" 
+				    android:layout_height="wrap_content"
+				    android:columnWidth="90dp"
+				    android:numColumns="3"
+				    android:verticalSpacing="10dp"
+				    android:horizontalSpacing="10dp"
+				    android:stretchMode="columnWidth"
+				    android:gravity="center"
+				    android:layout_below="@id/tour_guide__list_layout"
+			        android:layout_marginTop="5dp"
+			        android:listSelector="@android:color/transparent"
+					/>
+	        </RelativeLayout>
+	        
+	        <Button 
+	            android:id="@+id/tour_guides__btn_clear_filter"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:text=""
+	            android:textColor="#FFFFFF"
+	            android:layout_marginTop="5dp"
+	            android:layout_below="@id/tour_guide__results_layout"
+	            android:visibility="gone"
+	            />
+	        
+	    </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
